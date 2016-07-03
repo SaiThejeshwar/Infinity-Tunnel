@@ -1,0 +1,4 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/linkGameArmeabiDebugSharedLibrary/output.txt for all output for linkGameArmeabiDebugSharedLibrary.
+linking libgame.so successful.
+
+Finished linkGameArmeabiDebugSharedLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/linkGameArmeabiDebugSharedLibrary/output.txt.

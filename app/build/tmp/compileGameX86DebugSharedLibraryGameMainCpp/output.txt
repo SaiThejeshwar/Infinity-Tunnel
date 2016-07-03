@@ -1,0 +1,6 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameX86DebugSharedLibraryGameMainCpp/output.txt for all output for compileGameX86DebugSharedLibraryGameMainCpp.
+compiling ui_scene.cpp successful.
+
+compiling play_scene.cpp successful.
+
+Finished compileGameX86DebugSharedLibraryGameMainCpp, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameX86DebugSharedLibraryGameMainCpp/output.txt.

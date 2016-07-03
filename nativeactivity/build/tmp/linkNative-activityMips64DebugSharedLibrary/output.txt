@@ -1,0 +1,5 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityMips64DebugSharedLibrary/output.txt for all output for linkNative-activityMips64DebugSharedLibrary.
+linking libnative-activity.so successful.
+mips64el-linux-android-g++.exe: warning: C:\Users\sai\Desktop\InfinityTunnel\nativeactivity\build\intermediates\objectFiles\mips64DebugSharedLibrary\native-activityMainC\4lsl0v3cyqtegj83th2uqy4e1\android_native_app_glue.o: linker input file unused because linking not done
+
+Finished linkNative-activityMips64DebugSharedLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityMips64DebugSharedLibrary/output.txt.

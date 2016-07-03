@@ -1,0 +1,4 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/createNative-activityMipsDebugStaticLibrary/output.txt for all output for createNative-activityMipsDebugStaticLibrary.
+archiving libnative-activity.a successful.
+
+Finished createNative-activityMipsDebugStaticLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/createNative-activityMipsDebugStaticLibrary/output.txt.

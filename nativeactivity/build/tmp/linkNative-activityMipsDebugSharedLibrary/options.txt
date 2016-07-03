@@ -1,0 +1,15 @@
+-shared
+-Wl,-soname,libnative-activity.so
+-o
+C:\\Users\\sai\\Desktop\\InfinityTunnel\\nativeactivity\\build\\intermediates\\binaries\\debug\\obj\\mips\\libnative-activity.so
+C:\\Users\\sai\\Desktop\\InfinityTunnel\\nativeactivity\\build\\intermediates\\objectFiles\\mipsDebugSharedLibrary\\native-activityMainC\\4lsl0v3cyqtegj83th2uqy4e1\\android_native_app_glue.o
+-Wl,--no-undefined
+-Wl,-z,noexecstack
+-Wl,-z,relro
+-Wl,-z,now
+"--sysroot=F:\\Program Files\\AppData\\sdk\\ndk-bundle/platforms/android-23/arch-mips"
+-Wl,--build-id
+-no-canonical-prefixes
+-c
+-llog
+-landroid

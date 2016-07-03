@@ -1,0 +1,10 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameMipsDebugSharedLibraryGameMainCpp/output.txt for all output for compileGameMipsDebugSharedLibraryGameMainCpp.
+compiling ui_scene.cpp successful.
+clang++.exe: warning: optimization flag '-finline-functions' is not supported
+clang++.exe: warning: argument unused during compilation: '-finline-functions'
+
+compiling play_scene.cpp successful.
+clang++.exe: warning: optimization flag '-finline-functions' is not supported
+clang++.exe: warning: argument unused during compilation: '-finline-functions'
+
+Finished compileGameMipsDebugSharedLibraryGameMainCpp, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameMipsDebugSharedLibraryGameMainCpp/output.txt.

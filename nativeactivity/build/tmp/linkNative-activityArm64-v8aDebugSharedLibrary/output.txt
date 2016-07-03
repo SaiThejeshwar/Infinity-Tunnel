@@ -1,0 +1,5 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityArm64-v8aDebugSharedLibrary/output.txt for all output for linkNative-activityArm64-v8aDebugSharedLibrary.
+linking libnative-activity.so successful.
+aarch64-linux-android-g++.exe: warning: C:\Users\sai\Desktop\InfinityTunnel\nativeactivity\build\intermediates\objectFiles\arm64-v8aDebugSharedLibrary\native-activityMainC\4lsl0v3cyqtegj83th2uqy4e1\android_native_app_glue.o: linker input file unused because linking not done
+
+Finished linkNative-activityArm64-v8aDebugSharedLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityArm64-v8aDebugSharedLibrary/output.txt.

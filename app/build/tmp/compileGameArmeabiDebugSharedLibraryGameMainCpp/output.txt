@@ -1,0 +1,6 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameArmeabiDebugSharedLibraryGameMainCpp/output.txt for all output for compileGameArmeabiDebugSharedLibraryGameMainCpp.
+compiling ui_scene.cpp successful.
+
+compiling play_scene.cpp successful.
+
+Finished compileGameArmeabiDebugSharedLibraryGameMainCpp, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/compileGameArmeabiDebugSharedLibraryGameMainCpp/output.txt.

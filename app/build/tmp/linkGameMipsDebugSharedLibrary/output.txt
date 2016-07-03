@@ -1,0 +1,4 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/linkGameMipsDebugSharedLibrary/output.txt for all output for linkGameMipsDebugSharedLibrary.
+linking libgame.so successful.
+
+Finished linkGameMipsDebugSharedLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/app/build/tmp/linkGameMipsDebugSharedLibrary/output.txt.

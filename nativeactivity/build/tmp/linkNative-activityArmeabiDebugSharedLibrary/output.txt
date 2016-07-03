@@ -1,0 +1,5 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityArmeabiDebugSharedLibrary/output.txt for all output for linkNative-activityArmeabiDebugSharedLibrary.
+linking libnative-activity.so successful.
+arm-linux-androideabi-g++.exe: warning: C:\Users\sai\Desktop\InfinityTunnel\nativeactivity\build\intermediates\objectFiles\armeabiDebugSharedLibrary\native-activityMainC\4lsl0v3cyqtegj83th2uqy4e1\android_native_app_glue.o: linker input file unused because linking not done
+
+Finished linkNative-activityArmeabiDebugSharedLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/linkNative-activityArmeabiDebugSharedLibrary/output.txt.

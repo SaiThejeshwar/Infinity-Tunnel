@@ -1,0 +1,4 @@
+See file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/createNative-activityArmeabi-v7aDebugStaticLibrary/output.txt for all output for createNative-activityArmeabi-v7aDebugStaticLibrary.
+archiving libnative-activity.a successful.
+
+Finished createNative-activityArmeabi-v7aDebugStaticLibrary, see full log file:///C:/Users/sai/Desktop/InfinityTunnel/nativeactivity/build/tmp/createNative-activityArmeabi-v7aDebugStaticLibrary/output.txt.
